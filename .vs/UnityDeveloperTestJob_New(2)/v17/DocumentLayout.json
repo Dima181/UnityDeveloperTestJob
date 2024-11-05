@@ -1,0 +1,758 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\cannon\\cannontower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\cannon\\cannontower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|d:\\unity_projects\\2\\unitydevelopertestjob_new_2019.4.10f\\unitydevelopertestjob_new(2)\\assets\\codebase\\gameplay\\units\\abstract\\abstracttower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\abstract\\abstracttower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\abstract\\abstractprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\abstract\\abstractprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\cannon\\cannonprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\cannon\\cannonprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\simple\\simpletower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\simple\\simpletower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\cannon\\ontriggercollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\cannon\\ontriggercollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\scriptableobjects\\abstract\\projectiledataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\scriptableobjects\\abstract\\projectiledataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\scriptableobjects\\abstract\\towerdataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\scriptableobjects\\abstract\\towerdataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\scriptableobjects\\cannon\\cannontowerdataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\scriptableobjects\\cannon\\cannontowerdataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\infrastructure\\installers\\projectcontextinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\installers\\projectcontextinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\infrastructure\\installers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\installers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\infrastructure\\scenes\\escene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\scenes\\escene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\infrastructure\\scenes\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\scenes\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\infrastructure\\view\\bootstrapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\view\\bootstrapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\infrastructure\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\scriptableobjects\\simple\\guidedprojectiledataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\scriptableobjects\\simple\\guidedprojectiledataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\utils\\readonlyfield\\readonlydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\utils\\readonlyfield\\readonlydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\utils\\readonlyfield\\readonlyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\utils\\readonlyfield\\readonlyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\scriptableobjects\\simple\\simpletowerdataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\scriptableobjects\\simple\\simpletowerdataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\scriptableobjects\\simple\\installers\\simpledatainstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\scriptableobjects\\simple\\installers\\simpledatainstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\scriptableobjects\\monster\\monsterdataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\scriptableobjects\\monster\\monsterdataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\scriptableobjects\\cannon\\cannonprojectiledataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\scriptableobjects\\cannon\\cannonprojectiledataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\scriptableobjects\\cannon\\installers\\cannondatainstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\scriptableobjects\\cannon\\installers\\cannondatainstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\monster\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\monster\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\monster\\monsterhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\monster\\monsterhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\monster\\monstermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\monster\\monstermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\simple\\guidedprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\simple\\guidedprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\codebase\\gameplay\\units\\monster\\installers\\monsterinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\monster\\installers\\monsterinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695376FD-4D58-BF7F-321C-892CF9BC7B6E}|Zenject.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\plugins\\zenject\\source\\main\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695376FD-4D58-BF7F-321C-892CF9BC7B6E}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\main\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\shaders\\_bloomandflares\\blend.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\shaders\\_bloomandflares\\blend.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\shaders\\_antialiasing\\dlaa.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\shaders\\_antialiasing\\dlaa.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\shaders\\blendmodesoverlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\shaders\\blendmodesoverlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\blur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\blur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\bloom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\bloom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\antialiasing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\antialiasing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\2d\u0026effect\\shader\\crystalhalo.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\2d\u0026effect\\shader\\crystalhalo.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC24582-40CB-BF53-835D-FD5542295331}|UniRx.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\plugins\\unirx\\scripts\\unityenginebridge\\mainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC24582-40CB-BF53-835D-FD5542295331}|UniRx.csproj|solutionrelative:assets\\plugins\\unirx\\scripts\\unityenginebridge\\mainthreaddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\contrastenhance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\contrastenhance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\colorcorrectionramp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\colorcorrectionramp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\colorcorrectionlookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\colorcorrectionlookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\bloomandflares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2A179-E392-5747-22F4-7B52F67C8942}|Assembly-CSharp.csproj|solutionrelative:assets\\content\\origin\\standard assets\\effects\\imageeffects\\scripts\\bloomandflares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695376FD-4D58-BF7F-321C-892CF9BC7B6E}|Zenject.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\plugins\\zenject\\source\\runtime\\kernels\\monokernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695376FD-4D58-BF7F-321C-892CF9BC7B6E}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\runtime\\kernels\\monokernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695376FD-4D58-BF7F-321C-892CF9BC7B6E}|Zenject.csproj|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\plugins\\zenject\\source\\internal\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695376FD-4D58-BF7F-321C-892CF9BC7B6E}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\internal\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\unity_projects\\2\\unitydevelopertestjob_new_2019.4.10f\\unitydevelopertestjob_new(2)\\assets\\codebase\\gameplay\\units\\monster\\monsterinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\codebase\\gameplay\\units\\monster\\monsterinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\scripts\\simpletower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\content\\scripts\\simpletower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\assets\\content\\scripts\\guidedprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\content\\scripts\\guidedprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleTower.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Simple\\SimpleTower.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Simple\\SimpleTower.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Simple\\SimpleTower.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Simple\\SimpleTower.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:10:48.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractTower.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractTower.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractTower.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractTower.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractTower.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:12:03.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbstractProjectile.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractProjectile.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractProjectile.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:17:29.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CannonProjectile.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonProjectile.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonProjectile.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonProjectile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:20:01.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CannonTower.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonTower.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonTower.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonTower.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonTower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:37:15.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnTriggerCollider.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Cannon\\OnTriggerCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Cannon\\OnTriggerCollider.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Cannon\\OnTriggerCollider.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Cannon\\OnTriggerCollider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:45:30.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectileDataConfig.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Abstract\\ProjectileDataConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\ScriptableObjects\\Abstract\\ProjectileDataConfig.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Abstract\\ProjectileDataConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\ScriptableObjects\\Abstract\\ProjectileDataConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:17:17.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TowerDataConfig.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Abstract\\TowerDataConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\ScriptableObjects\\Abstract\\TowerDataConfig.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Abstract\\TowerDataConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\ScriptableObjects\\Abstract\\TowerDataConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:17:19.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CannonTowerDataConfig.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Cannon\\CannonTowerDataConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\ScriptableObjects\\Cannon\\CannonTowerDataConfig.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Cannon\\CannonTowerDataConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\ScriptableObjects\\Cannon\\CannonTowerDataConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:02:39.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectContextInstaller.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:07:50.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BootstrapInstaller.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:48:25.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EScene.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Scenes\\EScene.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\EScene.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Scenes\\EScene.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Scenes\\EScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:11:56.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Scenes\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\SceneLoader.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Scenes\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Scenes\\SceneLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:53:37.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BootstrapView.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\View\\BootstrapView.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\View\\BootstrapView.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\View\\BootstrapView.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\View\\BootstrapView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:51:09.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bootstrap.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:50:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GuidedProjectileDataConfig.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Simple\\GuidedProjectileDataConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\ScriptableObjects\\Simple\\GuidedProjectileDataConfig.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Simple\\GuidedProjectileDataConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\ScriptableObjects\\Simple\\GuidedProjectileDataConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:21:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReadOnlyDrawer.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Utils\\ReadOnlyField\\ReadOnlyDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Utils\\ReadOnlyField\\ReadOnlyDrawer.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Utils\\ReadOnlyField\\ReadOnlyDrawer.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Utils\\ReadOnlyField\\ReadOnlyDrawer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:35:52.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReadOnlyAttribute.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Utils\\ReadOnlyField\\ReadOnlyAttribute.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Utils\\ReadOnlyField\\ReadOnlyAttribute.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Utils\\ReadOnlyField\\ReadOnlyAttribute.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Utils\\ReadOnlyField\\ReadOnlyAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:35:51.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SimpleTowerDataConfig.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Simple\\SimpleTowerDataConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\ScriptableObjects\\Simple\\SimpleTowerDataConfig.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Simple\\SimpleTowerDataConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\ScriptableObjects\\Simple\\SimpleTowerDataConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:17:44.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SimpleDataInstaller.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Simple\\Installers\\SimpleDataInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\ScriptableObjects\\Simple\\Installers\\SimpleDataInstaller.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Simple\\Installers\\SimpleDataInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\ScriptableObjects\\Simple\\Installers\\SimpleDataInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:17:40.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CannonProjectileDataConfig.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Cannon\\CannonProjectileDataConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\ScriptableObjects\\Cannon\\CannonProjectileDataConfig.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Cannon\\CannonProjectileDataConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\ScriptableObjects\\Cannon\\CannonProjectileDataConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:55:49.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CannonDataInstaller.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Cannon\\Installers\\CannonDataInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\ScriptableObjects\\Cannon\\Installers\\CannonDataInstaller.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Cannon\\Installers\\CannonDataInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\ScriptableObjects\\Cannon\\Installers\\CannonDataInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:12:09.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MonsterDataConfig.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Monster\\MonsterDataConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\ScriptableObjects\\Monster\\MonsterDataConfig.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\ScriptableObjects\\Monster\\MonsterDataConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\ScriptableObjects\\Monster\\MonsterDataConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:17:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\Spawner.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\Spawner.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\Spawner.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwDcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:38:34.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MonsterHp.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterHp.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterHp.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterHp.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterHp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:13:23.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MonsterMovement.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterMovement.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterMovement.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterMovement.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:38:30.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GuidedProjectile.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Simple\\GuidedProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Simple\\GuidedProjectile.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Simple\\GuidedProjectile.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Simple\\GuidedProjectile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:10:50.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MonsterInstaller.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\Installers\\MonsterInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\Installers\\MonsterInstaller.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\Installers\\MonsterInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\Installers\\MonsterInstaller.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:15:03.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DiContainer.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
+              "ViewState": "AQIAAPIDAAAAAAAAAAAIwPcDAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:38:51.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SimpleTower.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Scripts\\SimpleTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Scripts\\SimpleTower.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Scripts\\SimpleTower.cs",
+              "RelativeToolTip": "Assets\\Content\\Scripts\\SimpleTower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:20:44.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GuidedProjectile.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Scripts\\GuidedProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Scripts\\GuidedProjectile.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Scripts\\GuidedProjectile.cs",
+              "RelativeToolTip": "Assets\\Content\\Scripts\\GuidedProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:38:26.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Blend.shader",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\_BloomAndFlares\\Blend.shader",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\_BloomAndFlares\\Blend.shader",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\_BloomAndFlares\\Blend.shader",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\_BloomAndFlares\\Blend.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-11-01T16:55:33.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DLAA.shader",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\_Antialiasing\\DLAA.shader",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\_Antialiasing\\DLAA.shader",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\_Antialiasing\\DLAA.shader",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\_Antialiasing\\DLAA.shader",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-11-01T16:55:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BlendModesOverlay.shader",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\BlendModesOverlay.shader",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\BlendModesOverlay.shader",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\BlendModesOverlay.shader",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Shaders\\BlendModesOverlay.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-11-01T16:55:10.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Blur.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Blur.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Blur.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Blur.cs",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Blur.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:54:53.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MainThreadDispatcher.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Plugins\\UniRx\\Scripts\\UnityEngineBridge\\MainThreadDispatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\UniRx\\Scripts\\UnityEngineBridge\\MainThreadDispatcher.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Plugins\\UniRx\\Scripts\\UnityEngineBridge\\MainThreadDispatcher.cs",
+              "RelativeToolTip": "Assets\\Plugins\\UniRx\\Scripts\\UnityEngineBridge\\MainThreadDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:49:30.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ContrastEnhance.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ContrastEnhance.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ContrastEnhance.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ContrastEnhance.cs",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ContrastEnhance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:48:33.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Antialiasing.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Antialiasing.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Antialiasing.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Antialiasing.cs",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Antialiasing.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAkwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:47:26.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CrystalHalo.shader",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\2D\u0026Effect\\Shader\\CrystalHalo.shader",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\2D\u0026Effect\\Shader\\CrystalHalo.shader",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\2D\u0026Effect\\Shader\\CrystalHalo.shader",
+              "RelativeToolTip": "Assets\\Content\\Origin\\2D\u0026Effect\\Shader\\CrystalHalo.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwDIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-11-01T16:46:23.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Bloom.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Bloom.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Bloom.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Bloom.cs",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\Bloom.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:47:38.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ColorCorrectionRamp.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ColorCorrectionRamp.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ColorCorrectionRamp.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ColorCorrectionRamp.cs",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ColorCorrectionRamp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:48:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ColorCorrectionLookup.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ColorCorrectionLookup.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ColorCorrectionLookup.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ColorCorrectionLookup.cs",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\ColorCorrectionLookup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:48:35.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BloomAndFlares.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\BloomAndFlares.cs",
+              "RelativeDocumentMoniker": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\BloomAndFlares.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\BloomAndFlares.cs",
+              "RelativeToolTip": "Assets\\Content\\Origin\\Standard Assets\\Effects\\ImageEffects\\Scripts\\BloomAndFlares.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:48:15.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MonoKernel.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Plugins\\Zenject\\Source\\Runtime\\Kernels\\MonoKernel.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Runtime\\Kernels\\MonoKernel.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Plugins\\Zenject\\Source\\Runtime\\Kernels\\MonoKernel.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Zenject\\Source\\Runtime\\Kernels\\MonoKernel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:21:40.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MonsterInstaller.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterInstaller.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Monster\\MonsterInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:18:09.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Assert.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
+              "ToolTip": "D:\\Unity_Projects\\2\\UnityDeveloperTestJob_New_2019.4.10f\\UnityDeveloperTestJob_New(2)\\Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAIwFoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:20:41.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

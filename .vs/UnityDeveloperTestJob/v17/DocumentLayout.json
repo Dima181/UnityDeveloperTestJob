@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dima\\Documents\\GitHub\\UnityDeveloperTestJob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0C9D47-3850-DFD2-1370-AE864C635C9A}|Assembly-CSharp.csproj|c:\\users\\dima\\documents\\github\\unitydevelopertestjob\\assets\\codebase\\gameplay\\units\\cannon\\cannontower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0C9D47-3850-DFD2-1370-AE864C635C9A}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\cannon\\cannontower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0C9D47-3850-DFD2-1370-AE864C635C9A}|Assembly-CSharp.csproj|c:\\users\\dima\\documents\\github\\unitydevelopertestjob\\assets\\codebase\\gameplay\\units\\abstract\\abstracttower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0C9D47-3850-DFD2-1370-AE864C635C9A}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\units\\abstract\\abstracttower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CannonTower.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\UnityDeveloperTestJob\\Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonTower.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonTower.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\UnityDeveloperTestJob\\Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonTower.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Cannon\\CannonTower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:49:22.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractTower.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\UnityDeveloperTestJob\\Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractTower.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractTower.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\UnityDeveloperTestJob\\Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractTower.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Units\\Abstract\\AbstractTower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:49:02.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
